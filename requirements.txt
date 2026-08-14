@@ -1,0 +1,14 @@
+python-dotenv
+langchain
+langchain-community
+pypdf
+beautifulsoup4
+pymupdf
+langchain-text-splitters
+langchain-openai
+chromadb
+faiss-cpu
+pandas
+openai
+langchain-groq
+streamlit
