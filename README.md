@@ -20,9 +20,10 @@ Streamlit Sidebar Layout — File upload and database creation tools are neatly 
 
 🧠 Tech Stack
 Component	Description
-Streamlit	Interactive web interface
-LangChain	Framework for document loading, splitting, and retrieval
-Groq LLM	High-performance language model for reasoning and answering
-OpenAI Embeddings	Converts text into vector representations
-FAISS	Efficient vector similarity search
-dotenv	Loads environment variables securely
+| Component | Description |
+| **Streamlit** | Interactive web interface |
+| **LangChain** | Framework for document loading, splitting, and retrieval |
+| **Groq LLM** | High-performance language model for reasoning and answering |
+| **OpenAI Embeddings** | Converts text into vector representations |
+| **FAISS** | Efficient vector similarity search |
+| **dotenv** | Loads environment variables securely |
