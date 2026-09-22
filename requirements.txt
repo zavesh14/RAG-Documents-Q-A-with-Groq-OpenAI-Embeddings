@@ -12,3 +12,5 @@ pandas
 openai
 langchain-groq
 streamlit
+langchain-huggingface
+sentence-transformers
